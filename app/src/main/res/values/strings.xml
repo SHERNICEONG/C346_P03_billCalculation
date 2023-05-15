@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">P03</string>
+    <string name="enter">Enter Something</string>
+    <string name="show">Display what user enters</string>
+    <string name="amt">Amount</string>
+    <string name="p">No. of Pax</string>
+    <string name="dsc">Discount (%)</string>
+    <string name="nsvs">No SVS</string>
+    <string name="svs">SVS</string>
+    <string name="gst">GST</string>
+    <string name="ngst">No GST</string>
+    <string name="r">RESET</string>
+    <string name="s">SPLIT</string>
+    <string name="c">Cash</string>
+    <string name="pn">PayNow</string>
+    <string name="space">  </string>
+
+</resources>
